@@ -1,0 +1,12 @@
+D:\WorkFlowTrain\CustomActivity\CustomActivity\bin\Debug\CustomActivity.dll
+D:\WorkFlowTrain\CustomActivity\CustomActivity\bin\Debug\CustomActivity.pdb
+D:\WorkFlowTrain\CustomActivity\CustomActivity\obj\Debug\CustomActivity.csproj.AssemblyReference.cache
+D:\WorkFlowTrain\CustomActivity\CustomActivity\obj\Debug\ActivityDesigner1.baml
+D:\WorkFlowTrain\CustomActivity\CustomActivity\obj\Debug\ActivityDesigner1.g.cs
+D:\WorkFlowTrain\CustomActivity\CustomActivity\obj\Debug\CustomActivity_MarkupCompile.cache
+D:\WorkFlowTrain\CustomActivity\CustomActivity\obj\Debug\CustomActivity.g.resources
+D:\WorkFlowTrain\CustomActivity\CustomActivity\obj\Debug\CustomActivity.Properties.Resources.resources
+D:\WorkFlowTrain\CustomActivity\CustomActivity\obj\Debug\CustomActivity.csproj.GenerateResource.cache
+D:\WorkFlowTrain\CustomActivity\CustomActivity\obj\Debug\CustomActivity.csproj.CoreCompileInputs.cache
+D:\WorkFlowTrain\CustomActivity\CustomActivity\obj\Debug\CustomActivity.dll
+D:\WorkFlowTrain\CustomActivity\CustomActivity\obj\Debug\CustomActivity.pdb
