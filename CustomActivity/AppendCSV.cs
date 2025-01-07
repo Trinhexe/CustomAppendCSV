@@ -24,22 +24,24 @@ namespace OpenRPA.Utilities
 
         protected override void Execute(CodeActivityContext context)
         {
+            // lấy đường dẫn tệp
             string filename = Filename.Get(context);
             filename = Environment.ExpandEnvironmentVariables(filename);
-
+            // lấy dữ liệu datatable
             DataTable data = Data.Get(context);
             string delimiter = Delimeter.Get(context) ?? ",";
 
-            // Ensure directory exists
+            // đảm bảo thư mục tồn tại
             string directory = Path.GetDirectoryName(filename);
             if (!string.IsNullOrEmpty(directory) && !Directory.Exists(directory))
             {
                 Directory.CreateDirectory(directory);
             }
 
-            // Write or append to the file
+           
             bool fileExists = File.Exists(filename);
 
+            // dữ liệu sẽ được ghi thêm vào cuối chứ không phải đè
             using (StreamWriter writer = new StreamWriter(filename, append: true, encoding: Encoding.UTF8))
             {
                 // Write header if file doesn't exist

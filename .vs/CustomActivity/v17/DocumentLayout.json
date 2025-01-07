@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\WorkFlowTrain\\CustomActivity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{281674B5-FA9D-46CE-AA08-BBD44A263F5F}|CustomActivity\\CustomActivity.csproj|d:\\workflowtrain\\customactivity\\customactivity\\appendcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{281674B5-FA9D-46CE-AA08-BBD44A263F5F}|CustomActivity\\CustomActivity.csproj|D:\\WorkFlowTrain\\CustomActivity\\customactivity\\appendcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{281674B5-FA9D-46CE-AA08-BBD44A263F5F}|CustomActivity\\CustomActivity.csproj|solutionrelative:customactivity\\appendcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{281674B5-FA9D-46CE-AA08-BBD44A263F5F}|CustomActivity\\CustomActivity.csproj|D:\\WorkFlowTrain\\CustomActivity\\CustomActivity\\ActivityDesigner1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{281674B5-FA9D-46CE-AA08-BBD44A263F5F}|CustomActivity\\CustomActivity.csproj|solutionrelative:CustomActivity\\ActivityDesigner1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{281674B5-FA9D-46CE-AA08-BBD44A263F5F}|CustomActivity\\CustomActivity.csproj|d:\\workflowtrain\\customactivity\\customactivity\\activitydesigner1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281674B5-FA9D-46CE-AA08-BBD44A263F5F}|CustomActivity\\CustomActivity.csproj|solutionrelative:customactivity\\activitydesigner1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{281674B5-FA9D-46CE-AA08-BBD44A263F5F}|CustomActivity\\CustomActivity.csproj|D:\\WorkFlowTrain\\CustomActivity\\CustomActivity\\ActivityDesigner1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{281674B5-FA9D-46CE-AA08-BBD44A263F5F}|CustomActivity\\CustomActivity.csproj|solutionrelative:CustomActivity\\ActivityDesigner1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{281674B5-FA9D-46CE-AA08-BBD44A263F5F}|CustomActivity\\CustomActivity.csproj|D:\\WorkFlowTrain\\CustomActivity\\customactivity\\activitydesigner1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{281674B5-FA9D-46CE-AA08-BBD44A263F5F}|CustomActivity\\CustomActivity.csproj|solutionrelative:customactivity\\activitydesigner1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +33,7 @@
               "ToolTip": "D:\\WorkFlowTrain\\CustomActivity\\CustomActivity\\ActivityDesigner1.xaml",
               "RelativeToolTip": "CustomActivity\\ActivityDesigner1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-07T01:59:55.831Z"
+              "WhenOpened": "2025-01-07T09:59:54.045Z"
             },
             {
               "$type": "Document",
@@ -43,9 +43,10 @@
               "RelativeDocumentMoniker": "CustomActivity\\ActivityDesigner1.xaml.cs",
               "ToolTip": "D:\\WorkFlowTrain\\CustomActivity\\CustomActivity\\ActivityDesigner1.xaml.cs",
               "RelativeToolTip": "CustomActivity\\ActivityDesigner1.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T02:00:24.176Z"
+              "WhenOpened": "2025-01-07T02:00:24.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,7 +56,7 @@
               "RelativeDocumentMoniker": "CustomActivity\\AppendCSV.cs",
               "ToolTip": "D:\\WorkFlowTrain\\CustomActivity\\CustomActivity\\AppendCSV.cs",
               "RelativeToolTip": "CustomActivity\\AppendCSV.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T02:07:30.594Z",
               "EditorCaption": ""
