@@ -55,12 +55,14 @@ namespace OpenRPA.Utilities
             }
         }
 
+
         private void WriteHeader(DataTable data, StreamWriter writer, string delimiter)
         {
             string header = string.Join(delimiter, data.Columns.Cast<DataColumn>().Select(c => c.ColumnName));
             writer.WriteLine(header);
         }
 
+        // ghi các dòng dữ liệu từ datatable vào file
         private void WriteRows(DataTable data, StreamWriter writer, string delimiter)
         {
             foreach (DataRow row in data.Rows)
@@ -70,6 +72,7 @@ namespace OpenRPA.Utilities
             }
         }
 
+        // xử lý các trường hợp đặc biệt
         private string EscapeField(string field)
         {
             if (field.Contains(",") || field.Contains("\n") || field.Contains("\""))
